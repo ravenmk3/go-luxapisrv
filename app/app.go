@@ -5,6 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+	_ "github.com/iawia002/lux/app"
 	"luxapisrv/service"
 )
 
